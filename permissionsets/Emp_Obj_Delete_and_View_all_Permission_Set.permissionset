@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Emp Obj Delete and View all Permission Set</label>
+    <license>Salesforce Platform</license>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>Employee__c</object>
+        <viewAllRecords>false</viewAllRecords>
+    </objectPermissions>
+</PermissionSet>
