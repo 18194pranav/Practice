@@ -7,7 +7,7 @@
 <allowDelete>false</allowDelete>
 <viewAllRecords>false</viewAllrecords>
 <modifyAllRecords>false</modifyAllRecords>
-<object>Employee__c</object>
+<object>Krios_Employee__c</object>
 </objectPermissions>
 
     <custom>true</custom>
